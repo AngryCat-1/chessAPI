@@ -1,0 +1,338 @@
+{
+  "1": {
+    "a": {
+      "figure": true,
+      "owner": "white",
+      "type": "rook"
+    },
+    "b": {
+      "figure": true,
+      "owner": "white",
+      "type": "knight"
+    },
+    "c": {
+      "figure": true,
+      "owner": "white",
+      "type": "bishop"
+    },
+    "d": {
+      "figure": true,
+      "owner": "white",
+      "type": "queen"
+    },
+    "e": {
+      "figure": true,
+      "owner": "white",
+      "type": "king"
+    },
+    "f": {
+      "figure": true,
+      "owner": "white",
+      "type": "bishop"
+    },
+    "g": {
+      "figure": true,
+      "owner": "white",
+      "type": "knight"
+    },
+    "h": {
+      "figure": true,
+      "owner": "white",
+      "type": "rook"
+    }
+  },
+  "2": {
+    "a": {
+      "figure": true,
+      "owner": "white",
+      "type": "pawn"
+    },
+    "b": {
+      "figure": true,
+      "owner": "white",
+      "type": "pawn"
+    },
+    "c": {
+      "figure": true,
+      "owner": "white",
+      "type": "pawn"
+    },
+    "d": {
+      "figure": true,
+      "owner": "white",
+      "type": "pawn"
+    },
+    "e": {
+      "figure": true,
+      "owner": "white",
+      "type": "pawn"
+    },
+    "f": {
+      "figure": true,
+      "owner": "white",
+      "type": "pawn"
+    },
+    "g": {
+      "figure": true,
+      "owner": "white",
+      "type": "pawn"
+    },
+    "h": {
+      "figure": true,
+      "owner": "white",
+      "type": "pawn"
+    }
+  },
+  "3": {
+    "a": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "b": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "c": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "d": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "e": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "f": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "g": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "h": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    }
+  },
+  "4": {
+    "a": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "b": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "c": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "d": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "e": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "f": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "g": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "h": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    }
+  },
+  "5": {
+    "a": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "b": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "c": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "d": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "e": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "f": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "g": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "h": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    }
+  },
+  "6": {
+    "a": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "b": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "c": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "d": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "e": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "f": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "g": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    },
+    "h": {
+      "figure": false,
+      "owner": null,
+      "type": null
+    }
+  },
+  "7": {
+    "a": {
+      "figure": true,
+      "owner": "black",
+      "type": "pawn"
+    },
+    "b": {
+      "figure": true,
+      "owner": "black",
+      "type": "pawn"
+    },
+    "c": {
+      "figure": true,
+      "owner": "black",
+      "type": "pawn"
+    },
+    "d": {
+      "figure": true,
+      "owner": "black",
+      "type": "pawn"
+    },
+    "e": {
+      "figure": true,
+      "owner": "black",
+      "type": "pawn"
+    },
+    "f": {
+      "figure": true,
+      "owner": "black",
+      "type": "pawn"
+    },
+    "g": {
+      "figure": true,
+      "owner": "black",
+      "type": "pawn"
+    },
+    "h": {
+      "figure": true,
+      "owner": "black",
+      "type": "pawn"
+    }
+  },
+  "8": {
+    "a": {
+      "figure": true,
+      "owner": "black",
+      "type": "rook"
+    },
+    "b": {
+      "figure": true,
+      "owner": "black",
+      "type": "knight"
+    },
+    "c": {
+      "figure": true,
+      "owner": "black",
+      "type": "bishop"
+    },
+    "d": {
+      "figure": true,
+      "owner": "black",
+      "type": "queen"
+    },
+    "e": {
+      "figure": true,
+      "owner": "black",
+      "type": "king"
+    },
+    "f": {
+      "figure": true,
+      "owner": "black",
+      "type": "bishop"
+    },
+    "g": {
+      "figure": true,
+      "owner": "black",
+      "type": "knight"
+    },
+    "h": {
+      "figure": true,
+      "owner": "black",
+      "type": "rook"
+    }
+  }
+}
